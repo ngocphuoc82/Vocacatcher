@@ -1,0 +1,7 @@
+{
+  "name": "AR Vocabulary Catcher - bắt từ vựng",
+  "description": "An AR game where students listen to vocabulary words and catch the correct word using hand tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
